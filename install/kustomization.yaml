@@ -1,0 +1,10 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+generators:
+#- mgmt-spoke1/common-cnfdf28.yaml
+#
+
+resources:
+- mgmt-spoke1/ns.yaml
+- mgmt-spoke1/secret.yaml
