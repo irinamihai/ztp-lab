@@ -7,4 +7,3 @@ generators:
 
 resources:
 - mgmt-spoke1/ns.yaml
-- mgmt-spoke1/secret.yaml
